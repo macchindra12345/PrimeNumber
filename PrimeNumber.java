@@ -5,6 +5,7 @@ class PrimeNumbers
        int i =0;
        int num =0;
        //Empty String
+       //Empty String
        String  primeNumbers = "";
 
        for (i = 1; i <= 100; i++)         
